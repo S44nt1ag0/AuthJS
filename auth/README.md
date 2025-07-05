@@ -2,6 +2,12 @@
 
 Um sistema de autenticação moderno construído com **Next.js 15** e **Auth.js (NextAuth)**.
 
+## Preview
+
+![novo1](https://github.com/user-attachments/assets/76f9e4ac-6972-4233-9330-638ae98c3c61)
+![imageedit_5_2001798374](https://github.com/user-attachments/assets/0c8fb2fb-1a0c-43f5-a809-97524209d477)
+![3](https://github.com/user-attachments/assets/b773de0b-99ea-4a8d-bb49-25e6a6cf7fa2)
+
 ## ✨ Features
 
 - 🔑 Autenticação com credenciais
